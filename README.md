@@ -36,7 +36,3 @@ The program will display the initial population, perform selection, crossover, m
 The algorithm continues to evolve the population until at least one of the chromosomes achieves the target fitness value of -1.
 
 Feel free to modify the code and parameters for your specific optimization problem.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
